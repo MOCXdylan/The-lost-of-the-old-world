@@ -26,7 +26,7 @@
 		"requiredTech": "Philosophy"
 	},
 	{
-		"name": "Germ Warfare",
+		"name": "advent",
 		"uniqueTo": "The Undead",
 		"replaces": "Heroic Epic",
 		"cost": 125,
